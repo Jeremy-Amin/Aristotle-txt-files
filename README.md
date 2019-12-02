@@ -62,7 +62,7 @@ This repository contains the following files:
 
 [Posterior Analytics](https://github.com/Jeremy-Amin/Aristotle-txt-files/blob/master/Aristotle-Posterior-analytics.txt)
 
-[Prior ANalytics](https://github.com/Jeremy-Amin/Aristotle-txt-files/blob/master/Aristotle-Prior-analytics.txt)
+[Prior Analytics](https://github.com/Jeremy-Amin/Aristotle-txt-files/blob/master/Aristotle-Prior-analytics.txt)
 
 [Rhetoric](https://github.com/Jeremy-Amin/Aristotle-txt-files/blob/master/Aristotle-Rhetoric.txt)
 
