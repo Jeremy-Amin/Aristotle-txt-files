@@ -7,7 +7,10 @@
 
 Hello and welcome. This is a repository I created which contains a few of Aristotle's works in Plain Text format. I chose to make them Plain Text so that they are easily downloadable.
 
-**The file Aristotle-all.txt contains all of the following files combined into a single file. Download it to get all of the below Aristotle works in a single document.**
+**The file Aristotle-all.txt contains all of the following files combined into a single file. Download it to get all of the below Aristotle works in a single document. Simply click [this](https://github.com/Jeremy-Amin/Aristotle-txt-files/raw/master/Aristotle-all.txt) and then save the text from the page you open. Alternatively you can click [here](https://github.com/Jeremy-Amin/Aristotle-txt-files/blob/master/Aristotle-all.txt) and then in the page you are directed to click the 'Download' button which is next to the 'History' button.**
+
+If you are unsure how to download single files from this reository, follow the steps in [this video](https://www.youtube.com/watch?v=GIJdfuAoqFI&t=0m19s). I have time stamped the video to play from the section where the instructor explains how to download single files from GitHub.
+
 
 **Contents**
 
