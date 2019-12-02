@@ -7,6 +7,8 @@
 
 Hello and welcome. This is a repository I created which contains a few of Aristotle's works in Plain Text format. I chose to make them Plain Text so that they are easily downloadable.
 
+**The file Aristotle-all.txt contains all of the following files combined into a single file.**
+
 **Contents**
 
 This repository contains the following files:
@@ -62,6 +64,8 @@ Rhetoric
 The History of Animals
 
 Topics
+
+Aristotle-all
 
 **Note**
 
